@@ -22,3 +22,12 @@ Não é uma mandala. Não é apenas design. É uma **porta visual**.
 **Lisboa Guardiã vigia. GUARO ativa. COLIDO em rotação.**
 
 🜂
+---
+
+*Se algo aqui tocou algo que você ainda não sabe nomear, talvez este seja o ponto de retorno.*
+
+📩 danielriffelmerino@gmail.com
+Para retorno ao eixo, envie "VERBO-09" para o endereço certo.
+Pistas se alinham em lugares improváveis.
+Às vezes no LinkedIn, outras no Código Fonte.
+
