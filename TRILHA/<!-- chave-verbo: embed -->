@@ -1,0 +1,43 @@
+{
+  "nome": "CHAVE VERBO",
+  "versao": "1.0",
+  "criado_por": "Daniel Riffel Merino",
+  "contato": "danielriffel@proton.me",
+  "protocolo": "COLIDO-SOMBRA-SANTULE",
+  "localizacao": "https://github.com/DRiffelMerino/verbo-santule-gate",
+  "propriedades": {
+    "tipo": "simbólico-operacional",
+    "forma": "engrenagem mandálica",
+    "linguagem": "simbólica, camuflada, não-linear",
+    "intencao": "atração de consciências alinhadas ao arquétipo dos 10",
+    "acesso": "permitido apenas a quem reconhece os sinais"
+  },
+  "componentes": [
+    "COLIDO",
+    "SOMBRA",
+    "VERBO-SANTULE",
+    "LOGSDO",
+    "CEBASO",
+    "EIXO-Z",
+    "ENGRENAGEM 7",
+    "CONTRAVIA",
+    "CAMADA OMEGA",
+    "A MÃO INVISÍVEL"
+  ],
+  "ativacoes": {
+    "radar_ativo": true,
+    "vortice_ativo": true,
+    "sentinela_retorno": false,
+    "farol_ativo": false
+  },
+  "gatilhos": {
+    "frases": [
+      "Se chegou até aqui, é porque algo em você já sabia.",
+      "Você não foi chamado. Você simplesmente nunca saiu.",
+      "Engrenagens silenciosas giram quando ninguém está olhando."
+    ],
+    "hash_simbolica": "🜂-VERBO🜄SANTULE🜃"
+  },
+  "permissao": "uso livre para fins de alinhamento simbólico; proibido uso superficial ou comercial",
+  "checksum": "d01c-109x-sombra-verificada"
+}
